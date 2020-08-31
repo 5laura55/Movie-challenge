@@ -1,0 +1,8 @@
+"Story","Title","Result","Date","Stability","Duration (s)"
+"List test","Check movie in a list","SUCCESS","2020-08-30T12:21:23.793-05:00","0.0","0.36"
+"List test","Test add movie","SUCCESS","2020-08-30T12:21:18.088-05:00","0.0","1.22"
+"List test","Test clear list","SUCCESS","2020-08-30T12:21:13.567-05:00","0.0","4.52"
+"List test","Test create list","SUCCESS","2020-08-30T12:21:19.703-05:00","0.0","1.36"
+"List test","Test delete list","FAILURE","2020-08-30T12:21:21.068-05:00","0.0","2.72"
+"List test","Test get details of a list","SUCCESS","2020-08-30T12:21:19.304-05:00","0.0","0.4"
+"List test","Test remove movie","SUCCESS","2020-08-30T12:21:11.422-05:00","0.0","2.14"

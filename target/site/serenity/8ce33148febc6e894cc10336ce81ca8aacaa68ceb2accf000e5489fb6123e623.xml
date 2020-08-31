@@ -1,0 +1,6 @@
+<acceptance-test-run title="Test create list" name="testCreateList" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="1364" timestamp="2020-08-30T12:21:19.703-05:00">
+  <user-story id="tests.ListTest" name="List test" path="tests"/>
+  <tags>
+    <tag name="List test" type="story"/>
+  </tags>
+</acceptance-test-run>

@@ -1,0 +1,8 @@
+-------------------------------------------------------------------------------
+Test set: tests.ListTest
+-------------------------------------------------------------------------------
+Tests run: 7, Failures: 1, Errors: 0, Skipped: 0, Time elapsed: 13.354 s <<< FAILURE! - in tests.ListTest
+testDeleteList(tests.ListTest)  Time elapsed: 2.726 s  <<< FAILURE!
+java.lang.AssertionError: expected:<200> but was:<500>
+	at tests.ListTest.testDeleteList(ListTest.java:74)
+

@@ -1,0 +1,6 @@
+<acceptance-test-run title="Test get request token" name="testGetRequestToken" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="2336" timestamp="2020-08-30T12:21:02.935-05:00">
+  <user-story id="tests.AuthenticationTest" name="Authentication test" path="tests"/>
+  <tags>
+    <tag name="Authentication test" type="story"/>
+  </tags>
+</acceptance-test-run>

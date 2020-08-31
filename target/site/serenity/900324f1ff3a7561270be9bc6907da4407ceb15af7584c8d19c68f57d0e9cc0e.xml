@@ -1,0 +1,6 @@
+<acceptance-test-run title="Test create session with login" name="testCreateSessionWithLogin" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="879" timestamp="2020-08-30T12:21:07.177-05:00">
+  <user-story id="tests.AuthenticationTest" name="Authentication test" path="tests"/>
+  <tags>
+    <tag name="Authentication test" type="story"/>
+  </tags>
+</acceptance-test-run>

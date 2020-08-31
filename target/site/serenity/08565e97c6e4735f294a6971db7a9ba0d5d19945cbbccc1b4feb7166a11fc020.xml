@@ -1,0 +1,6 @@
+<acceptance-test-run title="Test rate tv show" name="testRateTvShow" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="1372" timestamp="2020-08-30T12:21:29.724-05:00">
+  <user-story id="tests.RatingMediaTest" name="Rating media test" path="tests"/>
+  <tags>
+    <tag name="Rating media test" type="story"/>
+  </tags>
+</acceptance-test-run>

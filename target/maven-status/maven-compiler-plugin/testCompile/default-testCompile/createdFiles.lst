@@ -1,0 +1,8 @@
+helpers\HTTPMessageSender.class
+tests\AuthenticationTest.class
+entities\FavoriteMovie.class
+tests\RatingMediaTest.class
+helpers\TestEnvironment.class
+entities\Results.class
+api\API.class
+tests\ListTest.class

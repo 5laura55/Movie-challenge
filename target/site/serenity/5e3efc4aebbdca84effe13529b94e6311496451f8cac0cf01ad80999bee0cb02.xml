@@ -1,0 +1,6 @@
+<acceptance-test-run title="Check movie in a list" name="checkMovieInAList" steps="0" successful="0" failures="0" skipped="0" ignored="0" pending="0" result="SUCCESS" duration="355" timestamp="2020-08-30T12:21:23.793-05:00">
+  <user-story id="tests.ListTest" name="List test" path="tests"/>
+  <tags>
+    <tag name="List test" type="story"/>
+  </tags>
+</acceptance-test-run>
